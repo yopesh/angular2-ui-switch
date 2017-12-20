@@ -1,3 +1,5 @@
+With build issue fixes.
+
 # Description
 
 This is a simple iOS 7 style switch component for Angular2.
@@ -9,7 +11,7 @@ Inspired by [switchery](https://github.com/abpetkov/switchery) - in angular2.
 # Installation
 
 ```bash
-npm install angular2-ui-switch --save
+npm install yopesh/angular2-ui-switch --save
 ```
 
 # Usage
